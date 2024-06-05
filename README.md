@@ -55,7 +55,7 @@ WellerHub - Jadiki
 This mod contains songs with VERY explicit content, including VERY strong language and themes that most listeners may find highly offensive or inappropriate. Listener discretion is strongly advised. All rights to these songs are held by their respective owners.
 ```
 
-## If you want any songs added you can post them on github https://github.com/CrownScorpion/Scorpiomusic-content-warning-mod- and I will take a look.
+## If you want any songs added you can post them on github https://github.com/CrownScorpion/OffenseWarning and I will take a look.
 ***NOT ALL SONGS WILL BE ACCEPTED*** it all depends on the song and if I find it ok.
 
 if any issues are found please post them on the github thank you.
