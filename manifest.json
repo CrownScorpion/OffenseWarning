@@ -1,0 +1,11 @@
+{
+    "name": "OffenseWarning",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "(WARNING very big modpack) This is a nsfw music pack Listener discretion is strongly advised (works best with my other mod Scorpiomusic but not required) ",
+    "dependencies": [
+        "hyydsz-Boombox-1.1.5",
+        "hyydsz-ShopUtils-1.0.8",
+        "LimeSkillZ-BoomboxMusicShare-2.2.0"
+    ]
+}
